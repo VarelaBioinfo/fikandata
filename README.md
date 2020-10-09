@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaborate on anything related to coffee science 
 - 📫 avarela@lcg.unam.mx
 - :coffee: Coffee geek and Cowboys fan :football:
+
+![coffe_tween_peaks.gif](coffee_tween_peaks.gif)
 <!--
 **avarela6630/avarela6630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
