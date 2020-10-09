@@ -1,5 +1,5 @@
 ### Hi there 👋
-![headr_github.png](image.jpg)
+![headr_github.png](avarela6630/header_github.png )
 
 - 🔭 I’m currently working on Transcriptional Fusions :dna: :computer: :mexico:
 - 🌱 I’m currently learning: Python, R, Bash and Genomics 
