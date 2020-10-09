@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Transcriptional Fusions :dna: :computer:
+- 🔭 I’m currently working on Transcriptional Fusions :dna: :computer: :mex:
 - 🌱 I’m currently learning: Python, R, Bash and Genomics 
 - 👯 I’m looking to collaborate on anything related to coffee science 
 - 📫 avarela@lcg.unam.mx
-- :coffee: Home barista
+- :coffee: Home barista and Cowboys fan :football:
 <!--
 **avarela6630/avarela6630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 avarela@lcg.unam.mx
 - 😄 Pronouns: ...
-- ⚡ Home barista 
+- ⚡ Home barista and Cowboys fan :football:
 -->
