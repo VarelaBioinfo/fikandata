@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Transcriptional Fusions :dna: :computer: :mx:
+- 🔭 I’m currently working on Transcriptional Fusions :dna: :computer: :mexico:
 - 🌱 I’m currently learning: Python, R, Bash and Genomics 
 - 👯 I’m looking to collaborate on anything related to coffee science 
 - 📫 avarela@lcg.unam.mx
