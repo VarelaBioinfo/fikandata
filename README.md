@@ -1,4 +1,5 @@
 ### Hi there 👋
+![headr_github.png](image.jpg)
 
 - 🔭 I’m currently working on Transcriptional Fusions :dna: :computer: :mexico:
 - 🌱 I’m currently learning: Python, R, Bash and Genomics 
