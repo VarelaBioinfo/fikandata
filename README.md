@@ -13,7 +13,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Transcriptional Fusions
+
 - 🌱 I’m currently learning: Python, R, Bash and Genomics 
 - 👯 I’m looking to collaborate on anything related to coffee science 
 - 🤔 I’m looking for help with ..
